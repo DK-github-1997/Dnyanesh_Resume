@@ -33,3 +33,4 @@ STRENGTH
 Self Confidence 
 Positive Attitude 
 Learning New things
+#Declaration
